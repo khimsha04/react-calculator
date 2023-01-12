@@ -53,3 +53,12 @@ body {
   color: white;
   font-size: 2.5rem;
 }
+h1{
+  font-size: 30px;
+  margin: 50px;
+  color: white;
+  cursor: pointer;
+}
+h1:hover{
+  color: blue;
+}  
